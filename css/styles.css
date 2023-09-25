@@ -11,7 +11,8 @@ header{
 }
 
 body{
-    background: url("/img/biblioteca.jpg") no-repeat center center / cover;
+    background: url('../img/biblioteca.jpg') no-repeat center center/ cover;
+    
 }
 
 main{
